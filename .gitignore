@@ -1,5 +1,6 @@
-geospatial-data-analytics.zip
-datasets
+*.zip
+large_datasets
+small_datasets
 .ipynb_checkpoints
 .vscode
 .csv
