@@ -1,0 +1,31 @@
+start to work on small datasets
+loss for A is 0.12883900418415786, maxdepth is 44
+loss for B is 0.16556121319390651, maxdepth is 37
+loss for C is 0.4291348408088079, maxdepth is 24
+loss for D is 0.036989920180357544, maxdepth is 46
+loss for E is 0.052228781194267465, maxdepth is 41
+loss for F is 0.2232603357941107, maxdepth is 25
+loss for G is 0.01974034668982961, maxdepth is 40
+loss for H is 0.1224445495882188, maxdepth is 37
+loss for I is 0.21081000314701176, maxdepth is 27
+loss for J is 0.6795425043754347, maxdepth is 16
+loss for K is 0.6705036074612011, maxdepth is 16
+loss for L is 0.7913648764648954, maxdepth is 17
+loss for M is 0.5779980483597811, maxdepth is 12
+loss for N is 0.5923787799490594, maxdepth is 12
+loss for O is 0.6602877099396492, maxdepth is 14
+loss for P is 0.5434938503298321, maxdepth is 10
+loss for Q is 0.601404344198746, maxdepth is 11
+loss for R is 0.5008099985863316, maxdepth is 49
+final avg loss is 0.38927
+Traceback (most recent call last):
+  File "play_yuxi.py", line 112, in <module>
+    outdf.to_csv('submission_{}_pd{}.csv'.format(trainfolder,polydegree),index_label='id')
+  File "/home/hongy0a/miniconda3/lib/python3.8/site-packages/pandas/core/generic.py", line 3170, in to_csv
+    formatter.save()
+  File "/home/hongy0a/miniconda3/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 185, in save
+    f, handles = get_handle(
+  File "/home/hongy0a/miniconda3/lib/python3.8/site-packages/pandas/io/common.py", line 493, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, errors=errors, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: 'submission_small_datasets/_pd3.csv'
+start to work on small datasets
