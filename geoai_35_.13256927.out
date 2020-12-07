@@ -1,0 +1,80 @@
+start to work on small datasets
+loss for A is 0.12759460701900027, maxdepth is 42
+loss for B is 0.16518866898034504, maxdepth is 41
+loss for C is 0.4307598594561823, maxdepth is 36
+loss for D is 0.036524222738292735, maxdepth is 31
+loss for E is 0.05202016860876067, maxdepth is 46
+loss for F is 0.22359234820818785, maxdepth is 25
+loss for G is 0.01992491191819098, maxdepth is 33
+loss for H is 0.1215779839634369, maxdepth is 22
+loss for I is 0.2086973511912238, maxdepth is 44
+loss for J is 0.6802065381386715, maxdepth is 16
+loss for K is 0.6722056853202487, maxdepth is 16
+loss for L is 0.7907570960052744, maxdepth is 17
+loss for M is 0.5777539669291374, maxdepth is 12
+loss for N is 0.5919984841262147, maxdepth is 12
+loss for O is 0.6604052728899413, maxdepth is 14
+loss for P is 0.543851037468086, maxdepth is 10
+loss for Q is 0.6014609797598891, maxdepth is 11
+loss for R is 0.6357790377400042, maxdepth is 22
+final avg loss is 0.39668
+start to work on large datasets
+loss for A is 0.03833470935607549, maxdepth is 45
+loss for B is 0.05220473897255119, maxdepth is 41
+loss for C is 0.22841431668303586, maxdepth is 32
+loss for D is 0.0113469549421356, maxdepth is 44
+loss for E is 0.016224342814273717, maxdepth is 45
+loss for F is 0.1193738064871152, maxdepth is 31
+loss for G is 0.006141264211495957, maxdepth is 38
+loss for H is 0.06629399900647247, maxdepth is 33
+loss for I is 0.07864811597794333, maxdepth is 39
+loss for J is 0.6027467316443759, maxdepth is 18
+loss for K is 0.6161536529101859, maxdepth is 18
+loss for L is 0.6686524259460761, maxdepth is 18
+loss for M is 0.5445343224536566, maxdepth is 14
+loss for N is 0.5518303215142772, maxdepth is 14
+loss for O is 0.5999235116900199, maxdepth is 16
+loss for P is 0.5321259940129724, maxdepth is 11
+loss for Q is 0.5637461300787414, maxdepth is 13
+loss for R is 0.2023592025679461, maxdepth is 39
+final avg loss is 0.30550
+start to work on small datasets
+loss for A is 0.1314266852202804, maxdepth is 40
+loss for B is 0.17143347797800354, maxdepth is 33
+loss for C is 0.4318301904964294, maxdepth is 23
+loss for D is 0.036356571072244916, maxdepth is 34
+loss for E is 0.05456513419332491, maxdepth is 39
+loss for F is 0.225339933986612, maxdepth is 24
+loss for G is 0.020086820675228267, maxdepth is 39
+loss for H is 0.12319727101167081, maxdepth is 25
+loss for I is 0.20914264927870413, maxdepth is 28
+loss for J is 0.6615723281177236, maxdepth is 15
+loss for K is 0.6878523743046571, maxdepth is 17
+loss for L is 0.7867222880726662, maxdepth is 16
+loss for M is 0.5685459262230065, maxdepth is 11
+loss for N is 0.5855671317408588, maxdepth is 12
+loss for O is 0.6691819246545206, maxdepth is 13
+loss for P is 0.5517508414052678, maxdepth is 10
+loss for Q is 0.5989410399412599, maxdepth is 11
+loss for R is 0.5856419983271806, maxdepth is 33
+final avg loss is 0.39440
+start to work on large datasets
+loss for A is 0.03830772438226045, maxdepth is 42
+loss for B is 0.05280963107445754, maxdepth is 49
+loss for C is 0.23103324675773382, maxdepth is 31
+loss for D is 0.011159990343874285, maxdepth is 47
+loss for E is 0.016084372747876923, maxdepth is 40
+loss for F is 0.1211330330976874, maxdepth is 29
+loss for G is 0.006039821450211368, maxdepth is 41
+loss for H is 0.06748068694733071, maxdepth is 30
+loss for I is 0.07894779354652617, maxdepth is 33
+loss for J is 0.5958427486386597, maxdepth is 17
+loss for K is 0.6150592819136612, maxdepth is 18
+loss for L is 0.6813176763970827, maxdepth is 19
+loss for M is 0.5429104231216202, maxdepth is 13
+loss for N is 0.5476658239090465, maxdepth is 14
+loss for O is 0.6006688227896854, maxdepth is 16
+loss for P is 0.5323963851290883, maxdepth is 12
+loss for Q is 0.560409495249391, maxdepth is 14
+loss for R is 0.2149915563737051, maxdepth is 42
+final avg loss is 0.30635

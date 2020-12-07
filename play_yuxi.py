@@ -109,7 +109,7 @@ for d in datasets:
   print('loss for {} is {}, maxdepth is {}'.format(d,loss, clf.best_estimator_.max_depth))
 print('final avg loss is {:.5f}'.format( sum(final_acc)/len(final_acc)))
 outdf = pd.DataFrame(pred_array)
-outdf.to_csv('submission_{}_pd{}.csv'.format(trainfolder,polydegree),index_label='id')
+outdf.to_csv('submission_{}_pd{}.csv'.format(trainfolder[:-1],polydegree),index_label='id')
 
 
 # In[22]:
@@ -136,7 +136,7 @@ for d in datasets:
   print('loss for {} is {}, maxdepth is {}'.format(d,loss, clf.best_estimator_.max_depth))
 print('final avg loss is {:.5f}'.format( sum(final_acc)/len(final_acc)))
 outdf = pd.DataFrame(pred_array)
-outdf.to_csv('submission_{}_pd{}.csv'.format(trainfolder,polydegree),index_label='id')
+outdf.to_csv('submission_{}_pd{}.csv'.format(trainfolder[:-1],polydegree),index_label='id')
 
 
 

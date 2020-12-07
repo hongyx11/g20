@@ -1,0 +1,42 @@
+start to work on small datasets
+loss for A is 0.1293468458240951, maxdepth is 26
+loss for B is 0.17328246408946835, maxdepth is 43
+loss for C is 0.4299373377067344, maxdepth is 36
+loss for D is 0.037967635049959925, maxdepth is 28
+loss for E is 0.05303518282560801, maxdepth is 39
+loss for F is 0.22307745256528105, maxdepth is 42
+loss for G is 0.019691883529891194, maxdepth is 28
+loss for H is 0.12343538581879905, maxdepth is 45
+loss for I is 0.20272149942107376, maxdepth is 31
+loss for J is 0.663548573328964, maxdepth is 15
+loss for K is 0.6732789853398978, maxdepth is 16
+loss for L is 0.7773627894586915, maxdepth is 16
+loss for M is 0.5618533768234293, maxdepth is 11
+loss for N is 0.5807550025291772, maxdepth is 12
+loss for O is 0.667755499888071, maxdepth is 13
+loss for P is 0.5487483989362778, maxdepth is 10
+loss for Q is 0.6010491286658182, maxdepth is 12
+loss for R is 0.5361726372689182, maxdepth is 47
+final avg loss is 0.38906
+start to work on large datasets
+loss for A is 0.03828508690735768, maxdepth is 42
+loss for B is 0.05259917389437165, maxdepth is 40
+loss for C is 0.2291245367694074, maxdepth is 31
+loss for D is 0.01121305498231151, maxdepth is 45
+loss for E is 0.01614756666509677, maxdepth is 48
+loss for F is 0.11994423774406346, maxdepth is 32
+loss for G is 0.006053946173722686, maxdepth is 48
+loss for H is 0.06651666342370431, maxdepth is 33
+loss for I is 0.07913237401967287, maxdepth is 46
+loss for J is 0.5857052736670121, maxdepth is 16
+loss for K is 0.5962972638745231, maxdepth is 17
+loss for L is 0.6786493626509467, maxdepth is 19
+loss for M is 0.5402114201245658, maxdepth is 13
+loss for N is 0.5496577462822833, maxdepth is 14
+loss for O is 0.6069808205637849, maxdepth is 16
+loss for P is 0.532726847814784, maxdepth is 12
+loss for Q is 0.5601265338974443, maxdepth is 14
+loss for R is 0.20420480616696907, maxdepth is 48
+final avg loss is 0.30409
+start to work on small datasets
+slurmstepd: error: *** JOB 13256928 ON cn506-02-l CANCELLED AT 2020-12-07T06:52:52 DUE TO TIME LIMIT ***
